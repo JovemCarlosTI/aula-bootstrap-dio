@@ -1,0 +1,29 @@
+img#logo {
+  width: 25%;
+  height: 25%;
+}
+
+.navbar {
+  background-color: #1f83ff;
+}
+
+.quem-somos {
+
+}
+
+.parceiros {
+
+}
+
+.margin {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.imagens {
+  border-radius: 8px;
+}
+
+.footer {
+  color: rgb(116, 116, 116);
+}
